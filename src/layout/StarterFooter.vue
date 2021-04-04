@@ -8,39 +8,25 @@
       <nav>
         <ul>
           <li>
-            <a href="https://www.creative-tim.com">
-              Creative Tim
-            </a>
+            <a href="#"> Superdev </a>
           </li>
           <li>
-            <a href="https:///presentation.creative-tim.com">
-              About Us
-            </a>
+            <a href="#"> About Us </a>
           </li>
           <li>
-            <a href="https:///blog.creative-tim.com">
-              Blog
-            </a>
+            <a href="#"> Blog </a>
           </li>
           <li>
-            <a href="https://www.creative-tim.com/license">
-              License
-            </a>
+            <a href="#"> License </a>
           </li>
         </ul>
       </nav>
       <div class="copyright">
         &copy; {{ year }}, Designed by
-        <a href="https:///www.invisionapp.com" target="_blank" rel="noopener"
-          >Invision</a
-        >. Coded by
-        <a href="https://binarcode.com" target="_blank" rel="noopener"
-          >BinarCode</a
-        >
+        <a href="#" target="_blank" rel="noopener">Invision</a>. Coded by
+        <a href="#" target="_blank" rel="noopener">BinarCode</a>
         and
-        <a href="https://www.creative-tim.com" target="_blank" rel="noopener"
-          >Creative Tim</a
-        >.
+        <a href="#" target="_blank" rel="noopener">Superdev</a>.
       </div>
     </div>
   </footer>
@@ -49,13 +35,13 @@
 export default {
   props: {
     backgroundColor: String,
-    type: String
+    type: String,
   },
   data() {
     return {
-      year: new Date().getFullYear()
+      year: new Date().getFullYear(),
     };
-  }
+  },
 };
 </script>
 <style></style>

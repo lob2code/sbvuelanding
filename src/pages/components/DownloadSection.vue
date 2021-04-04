@@ -10,21 +10,17 @@
           <h3 class="title">Do you love this Bootstrap 4 UI Kit?</h3>
           <h5 class="description">
             Cause if you do, it can be yours for FREE. Hit the button below to
-            navigate to Creative Tim or Invision where you can find the kit in
-            HTML or Sketch/PSD format. Start a new project or give an old
-            Bootstrap project a new look!
+            navigate to Superdev or Invision where you can find the kit in HTML
+            or Sketch/PSD format. Start a new project or give an old Bootstrap
+            project a new look!
           </h5>
         </div>
         <div class="text-center col-md-12 col-lg-8">
-          <a
-            href="https://www.creative-tim.com/product/vue-now-ui-kit"
-            class="btn btn-primary btn-lg btn-round"
-            role="button"
-          >
+          <a href="#" class="btn btn-primary btn-lg btn-round" role="button">
             Download HTML
           </a>
           <a
-            href="https://www.invisionapp.com/now"
+            href="#"
             target="_blank"
             class="btn btn-primary btn-lg btn-simple btn-round"
             role="button"
@@ -41,20 +37,13 @@
           <h2>Want more?</h2>
           <h5 class="description">
             We've just launched
-            <a
-              href="http://demos.creative-tim.com/vue-now-ui-kit-pro"
-              target="_blank"
-              >Now UI Kit PRO</a
-            >. It has a huge number of components, sections and example pages.
-            Start Your Development With A Badass Bootstrap 4 UI Kit.
+            <a href="#" target="_blank">SB VUE</a>. It has a huge number of
+            components, sections and example pages. Start Your Development With
+            A Badass Bootstrap 4 UI Kit.
           </h5>
         </div>
         <div class="col-md-12">
-          <a
-            href="http://demos.creative-tim.com/vue-now-ui-kit-pro"
-            class="btn btn-neutral btn-round btn-lg"
-            target="_blank"
-          >
+          <a href="#" class="btn btn-neutral btn-round btn-lg" target="_blank">
             <i class="now-ui-icons arrows-1_share-66"></i> Upgrade to PRO
           </a>
         </div>
@@ -68,7 +57,7 @@
         <div class="text-center col-md-12 col-lg-8">
           <a
             target="_blank"
-            href="https://www.twitter.com/creativetim"
+            href="#"
             class="btn btn-neutral btn-icon btn-twitter btn-round btn-lg"
             rel="tooltip"
             title="Follow us"
@@ -77,7 +66,7 @@
           </a>
           <a
             target="_blank"
-            href="https://www.facebook.com/creativetim"
+            href="#"
             class="btn btn-neutral btn-icon btn-facebook btn-round btn-lg"
             rel="tooltip"
             title="Like us"
@@ -86,7 +75,7 @@
           </a>
           <a
             target="_blank"
-            href="https://www.linkedin.com/company-beta/9430489/"
+            href="#"
             class="btn btn-neutral btn-icon btn-linkedin btn-lg btn-round"
             rel="tooltip"
             title="Follow us"
@@ -95,7 +84,7 @@
           </a>
           <a
             target="_blank"
-            href="https://github.com/creativetimofficial/vue-now-ui-kit"
+            href="#"
             class="btn btn-neutral btn-icon btn-github btn-round btn-lg"
             rel="tooltip"
             title="Star on Github"

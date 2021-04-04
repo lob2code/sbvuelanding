@@ -5,22 +5,16 @@
         <div class="col-lg-6 col-md-12">
           <h2 class="title">Nucleo Icons</h2>
           <h5 class="description">
-            Now UI Kit comes with 100 custom icons made by our friends from
+            SB UI KIT comes with 100 custom icons made by our friends from
             NucleoApp. The official package contains over 2.100 thin icons which
-            are looking great in combination with Now UI Kit Make sure you check
+            are looking great in combination with SB UI KIT Make sure you check
             all of them and use those that you like the most.
           </h5>
-          <!-- <div class="nucleo-container">
-                    <img v-lazy="'assetsimg/nucleo.svg'" alt="">
-                </div> -->
-          <a
-            href="https://demos.creative-tim.com/now-ui-kit/nucleo-icons.html"
-            class="btn btn-primary btn-round btn-lg"
-            target="_blank"
+          <a href="#" class="btn btn-primary btn-round btn-lg" target="_blank"
             >View Demo Icons</a
           >
           <a
-            href="https://nucleoapp.com/?ref=1712"
+            href="#"
             class="btn btn-primary btn-simple btn-round btn-lg"
             target="_blank"
             >View All Icons</a

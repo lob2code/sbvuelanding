@@ -6,22 +6,22 @@
         <div class="row">
           <div class="col-md-12">
             <div class="typography-line">
-              <h1><span>Header 1</span>The Life of Now UI Kit</h1>
+              <h1><span>Header 1</span>The Life of SBUIKit</h1>
             </div>
             <div class="typography-line">
-              <h2><span>Header 2</span>The Life of Now UI Kit</h2>
+              <h2><span>Header 2</span>The Life of SBUIKit</h2>
             </div>
             <div class="typography-line">
-              <h3><span>Header 3</span>The Life of Now UI Kit</h3>
+              <h3><span>Header 3</span>The Life of SBUIKit</h3>
             </div>
             <div class="typography-line">
-              <h4><span>Header 4</span>The Life of Now UI Kit</h4>
+              <h4><span>Header 4</span>The Life of SBUIKit</h4>
             </div>
             <div class="typography-line">
-              <h5><span>Header 5</span>The Life of Now UI Kit</h5>
+              <h5><span>Header 5</span>The Life of SBUIKit</h5>
             </div>
             <div class="typography-line">
-              <h6><span>Header 6</span>The Life of Now UI Kit</h6>
+              <h6><span>Header 6</span>The Life of SBUIKit</h6>
             </div>
             <div class="typography-line">
               <p>
@@ -44,9 +44,7 @@
                   the level that things could be at."
                   <br />
                   <br />
-                  <small>
-                    - Noaa
-                  </small>
+                  <small> - Noaa </small>
                 </p>
               </blockquote>
             </div>
@@ -141,12 +139,12 @@
   </div>
 </template>
 <script>
-import { Button } from '@/components';
+import { Button } from "@/components";
 
 export default {
   components: {
-    [Button.name]: Button
-  }
+    [Button.name]: Button,
+  },
 };
 </script>
 <style>
